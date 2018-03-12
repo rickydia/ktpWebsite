@@ -172,7 +172,7 @@ a:focus, img:focus, button:focus, .btn:focus {outline: none;}
 
 ::-moz-selection {background-color:#fb5353;color:#fff;text-shadow:none;}
 
-::selection {background-color: #fb5353;color: #fff;text-shadow: none;}
+::selection {background-color: #fa5c57;color: #fff;text-shadow: none;}
 
 @font-face {font-family: 'Open Sans', sans-serif;}
 
