@@ -196,7 +196,7 @@ header[role="header"] nav ul > li > a{ display:block; line-height:72px; color:#4
 
 header[role="header"] nav ul > li:hover a,header[role="header"] nav ul > li.nav-active a{ text-decoration:none; color:#fb5353}
 
-header[role="header"] nav #menu-button {width: 31px;font-size: 0;float: left;height: 19px;position: relative; z-index:100; margin-left:15px;
+header[role="header"] nav #menu-button {width: 31px;font-size: 0;float: right;height: 19px;position: relative; z-index:100; margin-left:15px;
 
 -webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);transform: rotate(0deg);-webkit-transition: .5s ease-in-out;-moz-transition: .5s ease-in-out;-o-transition: .5s ease-in-out;transition: .5s ease-in-out;cursor: pointer;}
 
