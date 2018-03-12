@@ -1,3 +1,11 @@
 h2.members-header{
 	color: red;
 }
+
+ul {
+	list-style-type: none;
+}
+
+.alum_pics li{
+	margin-bottom: 15px;
+}
