@@ -18,11 +18,11 @@ $comments = $_POST['comments'];
 if(trim($name) == '') {
 	echo '<div class="error_message">You must enter your name.</div>';
 	exit();
-	
+
 } else if(trim($email) == '') {
 	echo '<div class="error_message">Please enter a valid email address.</div>';
 	exit();
-	
+
 } else if(!isEmail($email)) {
 	echo '<div class="error_message">You have entered an invalid e-mail address. Please try again.</div>';
 	exit();
