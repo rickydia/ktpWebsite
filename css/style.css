@@ -178,7 +178,7 @@ a:focus, img:focus, button:focus, .btn:focus {outline: none;}
 
 /*===== Header ===*/
 
-header[role="header"]{ padding-top:50px; padding-bottom:39px}
+header[role="header"]{ padding-top:50px; padding-bottom:50px}
 
 header[role="header"] h1{ padding:0; margin:0}
 
@@ -228,7 +228,7 @@ header[role="header"] nav #menu-button.open span:nth-child(3) {top: 5px;
 
 /*===== main ===*/
 
-main[role="main-home-wrapper"],main[role="main-inner-wrapper"] { padding-bottom:90px}
+main[role="main-home-wrapper"],main[role="main-inner-wrapper"] { padding-bottom:25px}
 
 main[role="main-home-wrapper"] article[role="pge-title-content"],main[role="main-inner-wrapper"] article[role="pge-title-content"]{ padding-left:41px}
 
@@ -242,7 +242,7 @@ main[role="main-home-wrapper"] article[role="pge-title-content"] p,main[role="ma
 
 /*===== footer ===*/
 
-footer[role="footer"]{ background-color:#FFF; padding-top:100px; padding-bottom:77px}
+footer[role="footer"]{ background-color:#FFF; padding-top:15px; padding-bottom:15px}
 
 footer[role="footer"] > h1 a{ margin:0 auto; display:block; max-width:66px;}
 
