@@ -14,3 +14,11 @@ img.eboard{
 div img.eboard_pics{
 	margin: auto;
 }
+
+div.each_class{
+	text-align: center;
+}
+
+.each_class p{
+	color: black;
+}
