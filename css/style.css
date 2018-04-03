@@ -230,7 +230,8 @@ header[role="header"] nav #menu-button.open span:nth-child(3) {top: 5px;
 
 main[role="main-home-wrapper"],main[role="main-inner-wrapper"] { padding-bottom:25px}
 
-main[role="main-home-wrapper"] article[role="pge-title-content"],main[role="main-inner-wrapper"] article[role="pge-title-content"]{ padding-left:41px}
+/* Title padding */
+/* main[role="main-home-wrapper"] article[role="pge-title-content"],main[role="main-inner-wrapper"] article[role="pge-title-content"]{ padding-left:41px} */
 
 main[role="main-home-wrapper"] article[role="pge-title-content"] header,main[role="main-inner-wrapper"] article[role="pge-title-content"] header{ padding-bottom:19px; padding-top:83px}
 
