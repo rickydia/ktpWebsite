@@ -311,7 +311,7 @@ section.blog-content:hover figure img{ opacity:0.5}
 
 article[role="pge-title-content"].contact-header{ padding-bottom:0px; padding-left:10px}
 
-article[role="pge-title-content"].contact-header p a{ color:#343434; padding-right:34px}
+article[role="pge-title-content"].contact-header p a{ color:#343434; padding-right:34px; padding-left:5px}
 
 article[role="pge-title-content"].contact-header p a:hover{color:#fa5c57; text-decoration:none}
 
