@@ -1,0 +1,4 @@
+Rush page
+- The title covers on the rush page should be
+  - Rectangle --> height 5.61 and width 11.25
+  - Square --> Should be perfect square
