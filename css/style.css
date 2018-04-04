@@ -233,7 +233,7 @@ main[role="main-home-wrapper"],main[role="main-inner-wrapper"] { padding-bottom:
 /* Title padding */
 /* main[role="main-home-wrapper"] article[role="pge-title-content"],main[role="main-inner-wrapper"] article[role="pge-title-content"]{ padding-left:41px} */
 
-main[role="main-home-wrapper"] article[role="pge-title-content"] header,main[role="main-inner-wrapper"] article[role="pge-title-content"] header{ padding-bottom:19px; padding-top:83px}
+main[role="main-home-wrapper"] article[role="pge-title-content"] header,main[role="main-inner-wrapper"] article[role="pge-title-content"] header{ padding-bottom:19px; padding-top:19px}
 
 main[role="main-home-wrapper"] article[role="pge-title-content"] header h2,main[role="main-inner-wrapper"] article[role="pge-title-content"] header h2{ font-size:46px; line-height:53px; color:#404040; font-weight:800}
 
@@ -309,7 +309,7 @@ section.blog-content:hover figure img{ opacity:0.5}
 
 /*===== Contact ===*/
 
-article[role="pge-title-content"].contact-header{ padding-bottom:218px}
+article[role="pge-title-content"].contact-header{ padding-bottom:0px; padding-left:10px}
 
 article[role="pge-title-content"].contact-header p a{ color:#343434; padding-right:34px}
 
@@ -323,7 +323,7 @@ article[role="pge-title-content"].contact-header p a:hover{color:#fa5c57; text-d
 
 #success_page h3,#success_page p{color:#60ca6f }
 
-.contat-from-wrapper{ padding:0 69px; margin-top:108px}
+.contat-from-wrapper{ padding:0 23px; margin-top:108px}
 
 .contat-from-wrapper input[type="text"],.contat-from-wrapper input[type="email"],.contat-from-wrapper textarea{ width:100%; display:block; outline:none; border-bottom:1px solid #bbbbbb; background-color:inherit; color:#404040; font-size:21px; line-height:23px; padding-bottom:24px}
 
