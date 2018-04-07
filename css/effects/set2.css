@@ -2,7 +2,7 @@
 
 	position: relative;
 
-	list-style: none; overflow:hidden; 
+	list-style: none; overflow:hidden;
 
 	text-align: center;
 
@@ -152,7 +152,7 @@
 
 	letter-spacing: 1px;
 
-	font-size:16px; line-height:22px;
+	font-size:100%; line-height:22px;
 
 }
 
@@ -341,7 +341,7 @@ figure.effect-oscar:hover img {
 
 	figure.effect-oscar figcaption{ padding:0em}
 
-	figure.effect-oscar h2{ font-size:20px;}
+	/* figure.effect-oscar h2{ font-size:20px;} */
 
 	figure.effect-oscar p{ font-size:13px;  padding:2%; display:block; width:90%; margin:0 auto;}
 
