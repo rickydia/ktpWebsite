@@ -30,6 +30,8 @@ h2.description{
 p.pd{
 	font-size: 50%;
 }
+
+/* Used for the modules on the Rush page */
 #title {
     /* Mobile/Tablet styles (xs, sm) */
 		margin: 20% 0 10px 0;
@@ -39,4 +41,22 @@ p.pd{
         /* Tablet/Desktop styles (md, lg) */
 				margin: 10% 0 5px 0;
     }
+}
+
+h2.faq{
+	font-size: 46px;
+	font-weight: 800;
+	color: #404040;
+	line-height: 53px;
+	margin-top: 0px;
+}
+
+.faq p{
+	text-align: left;
+	font-size: 15px;
+}
+
+p.faq-answers{
+	margin-left: 4%;
+	margin-bottom: 5%;
 }
