@@ -35,15 +35,15 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic);
 
 #header123 {
-  height: 90px;
-  width: 90px
+  height: 85px;
+  width: 85px
 }
 
   /* define mobile specific styles come here */
 @media only screen and (max-device-width: 480px) {
   #header123 {
-  	height: 75px;
-    width: 75px;
+  	height: 50px;
+    width: 50px;
   }
 }
 
@@ -233,7 +233,7 @@ main[role="main-home-wrapper"],main[role="main-inner-wrapper"] { padding-bottom:
 /* Title padding */
 /* main[role="main-home-wrapper"] article[role="pge-title-content"],main[role="main-inner-wrapper"] article[role="pge-title-content"]{ padding-left:41px} */
 
-main[role="main-home-wrapper"] article[role="pge-title-content"] header,main[role="main-inner-wrapper"] article[role="pge-title-content"] header{ padding-bottom:19px; padding-top:19px}
+main[role="main-home-wrapper"] article[role="pge-title-content"] header,main[role="main-inner-wrapper"] article[role="pge-title-content"] header{ padding-bottom:19px; padding-top:19px;}
 
 main[role="main-home-wrapper"] article[role="pge-title-content"] header h2,main[role="main-inner-wrapper"] article[role="pge-title-content"] header h2{ font-size:46px; line-height:53px; color:#404040; font-weight:800}
 
