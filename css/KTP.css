@@ -1,0 +1,76 @@
+h2.members-header {
+  color: red;
+}
+
+ul {
+  list-style-type: none;
+}
+
+img.eboard {
+  margin: auto;
+}
+
+div img.eboard_pics {
+  margin: auto;
+}
+
+div.each_class {
+  text-align: center;
+}
+
+.each_class p {
+  color: black;
+}
+
+h2.description {
+  font-size: 100%;
+}
+
+p.pd {
+  font-size: 50%;
+}
+
+/* Used for the modules on the Rush page */
+
+#title {
+  /* Mobile/Tablet styles (xs, sm) */
+  margin: 20% 0 10px 0;
+}
+
+@media (min-width: 991px) {
+  #title {
+    /* Tablet/Desktop styles (md, lg) */
+    margin: 10% 0 5px 0;
+  }
+}
+
+h2.faq {
+  font-size: 46px;
+  font-weight: 800;
+  color: #404040;
+  line-height: 53px;
+  margin-top: 0px;
+}
+
+.faq p {
+  text-align: left;
+  font-size: 15px;
+}
+
+p.faq-answers {
+  margin-left: 4%;
+  margin-bottom: 5%;
+}
+
+.OpenHouseInfo {
+  display: block;
+}
+
+.OpenHouseInfo h4 {
+  padding-left: 0;
+}
+
+.OpenHouseInfo p {
+  margin-bottom: 0;
+  font-size: 13px;
+}
