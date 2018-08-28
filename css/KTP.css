@@ -74,3 +74,11 @@ p.faq-answers {
   margin-bottom: 0;
   font-size: 13px;
 }
+
+#app-due {
+  font-size: 35px;
+  font-weight: 800;
+  color: #404040;
+  /* line-height: 53px; */
+  margin-top: 0px;
+}
